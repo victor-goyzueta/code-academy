@@ -1,3 +1,4 @@
+```markdown
 Congratulations on completing the first lesson of HTML! You are well on your way to becoming a skilled web developer.
 
 Let’s review what you’ve learned so far:
@@ -12,3 +13,4 @@ The <em> and <strong> tags are used to emphasize text.
 Line breaks are created with the <br> tag.
 Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted.
 Images (<img>) and videos (<video>) can be added by linking to an existing source.
+```
